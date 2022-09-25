@@ -2,7 +2,8 @@
 
 Virtual Internship - Android Application Development Using Kotlin
 
-Name: Mayank Shekhar
+Name: Manish kundella
+
 
 Projects
 
